@@ -91,7 +91,7 @@
     "fs-extra": "^7.0.1",
     "husky": "^1.1.2",
     "jest": "^23.6.0",
-    "lint-staged": "^8.0.0",
+    "lint-staged": "8.1.4",
     "prettier": "^1.15.3",
     "regenerator-runtime": "^0.13.1",
     "rimraf": "^2.6.2",
