@@ -50,7 +50,7 @@
     "autoprefixer": "^9.0.0",
     "babel-plugin-transform-async-to-promises": "^0.8.3",
     "brotli-size": "^0.0.3",
-    "camelcase": "^5.0.0",
+    "camelcase": "^5.1.0",
     "chalk": "^2.4.0",
     "cssnano": "^4.1.7",
     "es6-promisify": "^6.0.1",
